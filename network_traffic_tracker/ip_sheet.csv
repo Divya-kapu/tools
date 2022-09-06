@@ -1,0 +1,1001 @@
+network,country_name,country_name
+41.74.160.0/20,Africa,Rwanda
+41.77.160.0/22,Africa,Rwanda
+41.138.80.0/21,Africa,Rwanda
+41.186.0.0/16,Africa,Rwanda
+41.197.0.0/16,Africa,Rwanda
+41.215.248.0/22,Africa,Rwanda
+41.216.96.0/20,Africa,Rwanda
+41.216.112.0/21,Africa,Rwanda
+41.216.120.0/22,Africa,Rwanda
+41.222.244.0/22,Africa,Rwanda
+41.242.140.0/22,Africa,Rwanda
+104.143.19.0/24,Africa,Rwanda
+105.21.96.0/19,Africa,Rwanda
+105.178.0.0/15,Africa,Rwanda
+154.68.64.0/18,Africa,Rwanda
+196.12.140.0/22,Africa,Rwanda
+196.12.144.0/22,Africa,Rwanda
+196.44.240.0/20,Africa,Rwanda
+196.49.7.0/24,Africa,Rwanda
+196.223.12.0/24,Africa,Rwanda
+197.157.128.0/18,Africa,Rwanda
+197.157.212.0/22,Africa,Rwanda
+197.234.244.0/22,Africa,Rwanda
+197.243.0.0/17,Africa,Rwanda
+41.78.72.0/22,Africa,Somalia
+41.79.196.0/22,Africa,Somalia
+41.223.108.0/22,Africa,Somalia
+80.78.20.233/32,Africa,Somalia
+80.78.20.234/31,Africa,Somalia
+80.78.20.236/30,Africa,Somalia
+80.78.23.209/32,Africa,Somalia
+80.78.23.210/31,Africa,Somalia
+80.78.23.212/30,Africa,Somalia
+80.78.23.216/32,Africa,Somalia
+104.143.203.0/24,Africa,Somalia
+104.167.246.0/24,Africa,Somalia
+154.72.24.0/22,Africa,Somalia
+154.72.48.0/22,Africa,Somalia
+154.73.24.0/22,Africa,Somalia
+154.73.44.0/22,Africa,Somalia
+154.73.76.0/22,Africa,Somalia
+154.73.124.0/22,Africa,Somalia
+154.118.240.0/22,Africa,Somalia
+196.11.62.0/24,Africa,Somalia
+197.157.244.0/22,Africa,Somalia
+197.220.64.0/19,Africa,Somalia
+197.231.200.0/22,Africa,Somalia
+217.20.243.1/32,Africa,Somalia
+217.20.243.2/31,Africa,Somalia
+217.20.243.4/30,Africa,Somalia
+217.20.243.8/29,Africa,Somalia
+217.20.243.16/28,Africa,Somalia
+217.20.243.32/27,Africa,Somalia
+5.100.160.0/21,Asia,Yemen
+23.232.255.0/24,Asia,Yemen
+31.31.176.0/20,Asia,Yemen
+46.35.64.0/19,Asia,Yemen
+46.243.149.0/24,Asia,Yemen
+63.168.168.0/23,Asia,Yemen
+63.171.18.0/23,Asia,Yemen
+63.173.172.0/23,Asia,Yemen
+65.162.184.0/23,Asia,Yemen
+78.137.64.0/19,Asia,Yemen
+81.91.24.0/21,Asia,Yemen
+82.114.160.0/19,Asia,Yemen
+89.163.199.48/29,Asia,Yemen
+89.189.64.0/19,Asia,Yemen
+104.166.113.0/24,Asia,Yemen
+109.74.32.0/20,Asia,Yemen
+109.200.160.0/19,Asia,Yemen
+131.117.160.0/21,Asia,Yemen
+155.254.201.0/24,Asia,Yemen
+185.11.8.0/22,Asia,Yemen
+185.71.132.0/22,Asia,Yemen
+185.80.44.0/22,Asia,Yemen
+185.80.140.0/22,Asia,Yemen
+195.94.0.0/19,Asia,Yemen
+198.69.12.0/23,Asia,Yemen
+205.160.110.0/23,Asia,Yemen
+5.1.104.0/21,Asia,Iraq
+5.8.240.0/21,Asia,Iraq
+5.10.224.0/21,Asia,Iraq
+5.42.192.0/19,Asia,Iraq
+5.104.72.0/21,Asia,Iraq
+5.149.96.0/20,Asia,Iraq
+31.24.200.0/22,Asia,Iraq
+31.25.136.0/21,Asia,Iraq
+31.177.39.0/24,Asia,Iraq
+37.17.128.0/19,Asia,Iraq
+37.77.48.0/21,Asia,Iraq
+37.77.64.0/20,Asia,Iraq
+37.98.224.0/21,Asia,Iraq
+37.205.112.0/21,Asia,Iraq
+37.236.0.0/14,Asia,Iraq
+46.30.224.0/21,Asia,Iraq
+46.31.72.0/21,Asia,Iraq
+46.243.16.0/21,Asia,Iraq
+46.253.128.0/20,Asia,Iraq
+62.145.104.0/22,Asia,Iraq
+62.201.192.0/18,Asia,Iraq
+77.81.77.0/28,Asia,Iraq
+78.109.224.0/20,Asia,Iraq
+79.141.25.0/24,Asia,Iraq
+79.141.26.0/23,Asia,Iraq
+80.78.17.32/29,Asia,Iraq
+80.78.20.8/29,Asia,Iraq
+80.78.20.165/32,Asia,Iraq
+80.78.20.166/31,Asia,Iraq
+80.78.26.32/32,Asia,Iraq
+80.79.144.0/21,Asia,Iraq
+80.122.168.0/24,Asia,Iraq
+80.122.173.0/24,Asia,Iraq
+80.122.175.0/24,Asia,Iraq
+81.90.16.0/20,Asia,Iraq
+81.95.80.0/20,Asia,Iraq
+84.54.0.0/20,Asia,Iraq
+84.54.16.0/22,Asia,Iraq
+84.54.20.0/24,Asia,Iraq
+84.254.188.0/24,Asia,Iraq
+85.236.136.0/21,Asia,Iraq
+86.62.12.0/24,Asia,Iraq
+86.62.27.0/24,Asia,Iraq
+86.62.28.0/24,Asia,Iraq
+86.111.144.0/21,Asia,Iraq
+88.202.44.0/24,Asia,Iraq
+89.33.66.0/23,Asia,Iraq
+89.46.200.0/21,Asia,Iraq
+91.106.32.0/19,Asia,Iraq
+91.142.48.0/24,Asia,Iraq
+91.151.155.0/24,Asia,Iraq
+91.213.191.0/24,Asia,Iraq
+91.217.185.0/24,Asia,Iraq
+93.91.192.0/20,Asia,Iraq
+93.94.48.0/21,Asia,Iraq
+93.187.32.0/22,Asia,Iraq
+93.187.36.0/24,Asia,Iraq
+93.187.37.0/24,Asia,Iraq
+93.187.38.0/23,Asia,Iraq
+95.159.64.0/18,Asia,Iraq
+95.170.192.0/19,Asia,Iraq
+104.222.219.0/24,Asia,Iraq
+109.70.66.0/24,Asia,Iraq
+109.127.64.0/18,Asia,Iraq
+109.205.112.0/21,Asia,Iraq
+109.224.0.0/18,Asia,Iraq
+109.237.192.0/20,Asia,Iraq
+128.65.175.192/28,Asia,Iraq
+130.193.128.0/17,Asia,Iraq
+130.255.0.0/21,Asia,Iraq
+130.255.88.0/21,Asia,Iraq
+131.117.224.0/19,Asia,Iraq
+146.66.128.0/21,Asia,Iraq
+149.255.192.0/18,Asia,Iraq
+151.236.160.0/19,Asia,Iraq
+155.254.239.0/24,Asia,Iraq
+159.255.160.0/21,Asia,Iraq
+164.138.232.0/21,Asia,Iraq
+175.41.5.0/24,Asia,Iraq
+176.28.72.0/21,Asia,Iraq
+176.241.64.0/21,Asia,Iraq
+176.241.80.0/20,Asia,Iraq
+178.17.48.0/21,Asia,Iraq
+178.17.56.0/22,Asia,Iraq
+178.17.60.0/23,Asia,Iraq
+178.22.32.0/21,Asia,Iraq
+185.9.68.0/22,Asia,Iraq
+185.12.24.0/22,Asia,Iraq
+185.14.248.0/22,Asia,Iraq
+185.16.24.0/22,Asia,Iraq
+185.20.24.0/22,Asia,Iraq
+185.21.136.0/22,Asia,Iraq
+185.23.152.0/22,Asia,Iraq
+185.27.216.0/22,Asia,Iraq
+185.32.148.0/22,Asia,Iraq
+185.33.44.0/22,Asia,Iraq
+185.34.16.0/22,Asia,Iraq
+185.37.88.0/22,Asia,Iraq
+185.37.160.0/22,Asia,Iraq
+185.38.212.0/22,Asia,Iraq
+185.39.76.0/22,Asia,Iraq
+185.42.192.0/22,Asia,Iraq
+185.47.180.0/22,Asia,Iraq
+185.51.220.0/22,Asia,Iraq
+185.52.100.0/22,Asia,Iraq
+185.52.116.0/22,Asia,Iraq
+185.54.156.0/22,Asia,Iraq
+185.54.164.0/22,Asia,Iraq
+185.55.184.0/22,Asia,Iraq
+185.56.192.0/22,Asia,Iraq
+185.58.12.0/22,Asia,Iraq
+185.65.252.0/22,Asia,Iraq
+185.69.4.0/22,Asia,Iraq
+185.75.96.0/22,Asia,Iraq
+185.76.32.0/22,Asia,Iraq
+185.80.40.0/22,Asia,Iraq
+185.84.68.0/22,Asia,Iraq
+185.88.24.0/22,Asia,Iraq
+185.89.88.0/22,Asia,Iraq
+185.89.124.0/22,Asia,Iraq
+185.90.104.0/22,Asia,Iraq
+185.91.16.0/22,Asia,Iraq
+188.72.0.0/18,Asia,Iraq
+188.114.120.0/21,Asia,Iraq
+193.106.196.0/22,Asia,Iraq
+194.117.56.0/21,Asia,Iraq
+195.96.148.0/22,Asia,Iraq
+212.126.96.0/19,Asia,Iraq
+213.188.64.0/19,Asia,Iraq
+217.171.181.183/32,Asia,Iraq
+2.88.0.0/14,Asia,Saudi Arabia
+5.23.20.0/24,Asia,Saudi Arabia
+5.41.0.0/16,Asia,Saudi Arabia
+5.42.224.0/19,Asia,Saudi Arabia
+5.82.0.0/16,Asia,Saudi Arabia
+5.108.0.0/14,Asia,Saudi Arabia
+5.132.192.0/18,Asia,Saudi Arabia
+5.156.0.0/16,Asia,Saudi Arabia
+5.163.0.0/16,Asia,Saudi Arabia
+5.244.0.0/14,Asia,Saudi Arabia
+12.151.162.0/24,Asia,Saudi Arabia
+23.232.248.0/24,Asia,Saudi Arabia
+31.24.224.0/21,Asia,Saudi Arabia
+31.166.0.0/15,Asia,Saudi Arabia
+37.16.32.0/19,Asia,Saudi Arabia
+37.16.128.0/17,Asia,Saudi Arabia
+37.42.0.0/16,Asia,Saudi Arabia
+37.43.0.0/23,Asia,Saudi Arabia
+37.43.2.0/24,Asia,Saudi Arabia
+37.43.4.0/22,Asia,Saudi Arabia
+37.43.8.0/21,Asia,Saudi Arabia
+37.43.16.0/20,Asia,Saudi Arabia
+37.43.32.0/19,Asia,Saudi Arabia
+37.43.64.0/18,Asia,Saudi Arabia
+37.43.128.0/17,Asia,Saudi Arabia
+37.56.0.0/16,Asia,Saudi Arabia
+37.76.224.0/19,Asia,Saudi Arabia
+37.99.128.0/18,Asia,Saudi Arabia
+37.104.0.0/14,Asia,Saudi Arabia
+37.121.0.0/16,Asia,Saudi Arabia
+37.124.0.0/14,Asia,Saudi Arabia
+37.141.0.0/16,Asia,Saudi Arabia
+37.216.0.0/15,Asia,Saudi Arabia
+37.224.0.0/16,Asia,Saudi Arabia
+37.240.0.0/14,Asia,Saudi Arabia
+46.18.160.0/21,Asia,Saudi Arabia
+46.29.80.0/21,Asia,Saudi Arabia
+46.36.194.221/32,Asia,Saudi Arabia
+46.36.194.222/31,Asia,Saudi Arabia
+46.36.194.224/30,Asia,Saudi Arabia
+46.36.194.228/31,Asia,Saudi Arabia
+46.36.194.230/32,Asia,Saudi Arabia
+46.38.64.0/19,Asia,Saudi Arabia
+46.44.64.0/18,Asia,Saudi Arabia
+46.52.0.0/17,Asia,Saudi Arabia
+46.151.208.0/21,Asia,Saudi Arabia
+46.152.0.0/15,Asia,Saudi Arabia
+46.161.58.0/25,Asia,Saudi Arabia
+46.184.0.0/17,Asia,Saudi Arabia
+46.230.0.0/17,Asia,Saudi Arabia
+46.235.88.0/21,Asia,Saudi Arabia
+46.240.0.0/17,Asia,Saudi Arabia
+46.251.128.0/19,Asia,Saudi Arabia
+61.28.215.0/24,Asia,Saudi Arabia
+62.3.0.0/20,Asia,Saudi Arabia
+62.3.16.0/21,Asia,Saudi Arabia
+62.3.24.0/23,Asia,Saudi Arabia
+62.3.26.0/25,Asia,Saudi Arabia
+62.3.26.128/26,Asia,Saudi Arabia
+62.3.26.192/30,Asia,Saudi Arabia
+62.3.26.196/31,Asia,Saudi Arabia
+62.3.26.199/32,Asia,Saudi Arabia
+62.3.26.200/29,Asia,Saudi Arabia
+62.3.26.208/28,Asia,Saudi Arabia
+62.3.26.224/27,Asia,Saudi Arabia
+62.3.27.0/24,Asia,Saudi Arabia
+62.3.28.0/22,Asia,Saudi Arabia
+62.3.32.128/27,Asia,Saudi Arabia
+62.3.32.160/28,Asia,Saudi Arabia
+62.3.32.176/29,Asia,Saudi Arabia
+62.3.32.192/26,Asia,Saudi Arabia
+62.3.33.0/24,Asia,Saudi Arabia
+62.3.34.0/23,Asia,Saudi Arabia
+62.3.36.0/22,Asia,Saudi Arabia
+62.3.40.0/21,Asia,Saudi Arabia
+62.3.48.0/20,Asia,Saudi Arabia
+62.120.0.0/16,Asia,Saudi Arabia
+62.149.64.0/18,Asia,Saudi Arabia
+63.103.137.0/24,Asia,Saudi Arabia
+64.20.40.153/32,Asia,Saudi Arabia
+64.131.95.0/25,Asia,Saudi Arabia
+64.214.231.0/24,Asia,Saudi Arabia
+66.110.32.0/26,Asia,Saudi Arabia
+66.110.32.148/30,Asia,Saudi Arabia
+66.110.32.152/29,Asia,Saudi Arabia
+66.110.32.160/27,Asia,Saudi Arabia
+66.110.32.192/26,Asia,Saudi Arabia
+66.110.35.0/24,Asia,Saudi Arabia
+66.110.36.0/22,Asia,Saudi Arabia
+66.178.89.0/24,Asia,Saudi Arabia
+69.24.241.12/30,Asia,Saudi Arabia
+69.24.241.24/30,Asia,Saudi Arabia
+74.53.247.66/32,Asia,Saudi Arabia
+74.53.253.130/31,Asia,Saudi Arabia
+74.53.253.132/30,Asia,Saudi Arabia
+74.53.253.136/29,Asia,Saudi Arabia
+74.53.253.144/28,Asia,Saudi Arabia
+74.53.253.160/27,Asia,Saudi Arabia
+74.53.253.192/26,Asia,Saudi Arabia
+74.53.254.0/25,Asia,Saudi Arabia
+74.53.254.128/31,Asia,Saudi Arabia
+77.30.0.0/15,Asia,Saudi Arabia
+77.64.0.0/17,Asia,Saudi Arabia
+77.73.192.0/21,Asia,Saudi Arabia
+77.87.16.0/21,Asia,Saudi Arabia
+77.95.216.0/21,Asia,Saudi Arabia
+77.110.64.0/18,Asia,Saudi Arabia
+77.221.96.0/19,Asia,Saudi Arabia
+77.232.96.0/19,Asia,Saudi Arabia
+77.232.176.0/21,Asia,Saudi Arabia
+77.240.80.0/20,Asia,Saudi Arabia
+77.240.128.0/20,Asia,Saudi Arabia
+78.93.0.0/16,Asia,Saudi Arabia
+78.95.0.0/16,Asia,Saudi Arabia
+78.110.0.0/20,Asia,Saudi Arabia
+78.138.192.0/18,Asia,Saudi Arabia
+79.170.0.0/22,Asia,Saudi Arabia
+79.170.4.0/24,Asia,Saudi Arabia
+79.170.5.0/24,Asia,Saudi Arabia
+79.170.6.0/23,Asia,Saudi Arabia
+79.170.48.0/21,Asia,Saudi Arabia
+79.172.128.0/18,Asia,Saudi Arabia
+80.74.80.0/20,Asia,Saudi Arabia
+80.240.64.0/20,Asia,Saudi Arabia
+81.16.208.0/20,Asia,Saudi Arabia
+81.21.48.0/20,Asia,Saudi Arabia
+82.116.140.0/27,Asia,Saudi Arabia
+82.116.140.32/32,Asia,Saudi Arabia
+82.116.140.34/31,Asia,Saudi Arabia
+82.116.140.36/30,Asia,Saudi Arabia
+82.116.140.40/32,Asia,Saudi Arabia
+82.116.140.42/31,Asia,Saudi Arabia
+82.116.140.44/30,Asia,Saudi Arabia
+82.116.140.48/28,Asia,Saudi Arabia
+82.116.140.64/26,Asia,Saudi Arabia
+82.116.140.128/25,Asia,Saudi Arabia
+82.118.160.0/19,Asia,Saudi Arabia
+82.147.192.0/19,Asia,Saudi Arabia
+82.167.0.0/16,Asia,Saudi Arabia
+82.214.196.0/24,Asia,Saudi Arabia
+83.101.128.0/17,Asia,Saudi Arabia
+84.22.224.0/19,Asia,Saudi Arabia
+84.23.96.0/19,Asia,Saudi Arabia
+84.235.0.0/18,Asia,Saudi Arabia
+84.235.64.0/19,Asia,Saudi Arabia
+84.235.104.0/21,Asia,Saudi Arabia
+84.235.112.0/20,Asia,Saudi Arabia
+85.90.74.176/29,Asia,Saudi Arabia
+85.129.128.0/17,Asia,Saudi Arabia
+85.194.64.0/18,Asia,Saudi Arabia
+85.208.0.0/15,Asia,Saudi Arabia
+85.237.128.0/19,Asia,Saudi Arabia
+86.51.0.0/16,Asia,Saudi Arabia
+86.60.0.0/17,Asia,Saudi Arabia
+86.111.192.0/21,Asia,Saudi Arabia
+87.101.128.0/19,Asia,Saudi Arabia
+87.101.160.0/20,Asia,Saudi Arabia
+87.101.176.0/21,Asia,Saudi Arabia
+87.101.184.0/24,Asia,Saudi Arabia
+87.101.185.0/24,Asia,Saudi Arabia
+87.101.186.0/23,Asia,Saudi Arabia
+87.101.188.0/22,Asia,Saudi Arabia
+87.101.192.0/18,Asia,Saudi Arabia
+87.109.0.0/16,Asia,Saudi Arabia
+87.230.128.0/17,Asia,Saudi Arabia
+87.236.197.182/32,Asia,Saudi Arabia
+88.81.0.0/19,Asia,Saudi Arabia
+88.84.96.0/19,Asia,Saudi Arabia
+88.85.224.0/19,Asia,Saudi Arabia
+88.213.0.0/17,Asia,Saudi Arabia
+89.4.0.0/15,Asia,Saudi Arabia
+89.108.0.0/18,Asia,Saudi Arabia
+89.144.64.0/18,Asia,Saudi Arabia
+89.147.0.0/18,Asia,Saudi Arabia
+89.149.244.183/32,Asia,Saudi Arabia
+89.149.244.186/32,Asia,Saudi Arabia
+89.189.224.0/19,Asia,Saudi Arabia
+89.237.128.0/18,Asia,Saudi Arabia
+90.148.0.0/16,Asia,Saudi Arabia
+91.102.16.0/21,Asia,Saudi Arabia
+91.147.128.0/18,Asia,Saudi Arabia
+91.151.160.0/20,Asia,Saudi Arabia
+91.195.88.0/23,Asia,Saudi Arabia
+91.198.62.0/24,Asia,Saudi Arabia
+91.198.102.0/24,Asia,Saudi Arabia
+91.198.251.0/24,Asia,Saudi Arabia
+91.199.107.0/24,Asia,Saudi Arabia
+91.199.187.0/24,Asia,Saudi Arabia
+91.206.134.0/23,Asia,Saudi Arabia
+91.208.4.0/24,Asia,Saudi Arabia
+91.208.156.0/24,Asia,Saudi Arabia
+91.209.253.0/24,Asia,Saudi Arabia
+91.212.67.0/24,Asia,Saudi Arabia
+91.213.18.0/24,Asia,Saudi Arabia
+91.213.205.0/24,Asia,Saudi Arabia
+91.213.213.0/24,Asia,Saudi Arabia
+91.221.22.0/23,Asia,Saudi Arabia
+91.221.184.0/23,Asia,Saudi Arabia
+91.221.202.0/23,Asia,Saudi Arabia
+91.222.200.0/22,Asia,Saudi Arabia
+91.223.210.0/24,Asia,Saudi Arabia
+91.227.22.0/24,Asia,Saudi Arabia
+91.227.24.0/23,Asia,Saudi Arabia
+91.229.32.0/23,Asia,Saudi Arabia
+91.229.220.0/24,Asia,Saudi Arabia
+91.230.124.0/23,Asia,Saudi Arabia
+91.233.141.0/24,Asia,Saudi Arabia
+91.233.174.0/24,Asia,Saudi Arabia
+91.237.21.0/24,Asia,Saudi Arabia
+91.237.22.0/23,Asia,Saudi Arabia
+91.237.28.0/22,Asia,Saudi Arabia
+91.238.113.0/24,Asia,Saudi Arabia
+92.43.168.0/21,Asia,Saudi Arabia
+92.48.0.0/18,Asia,Saudi Arabia
+93.98.0.0/16,Asia,Saudi Arabia
+93.112.0.0/16,Asia,Saudi Arabia
+93.168.0.0/15,Asia,Saudi Arabia
+93.178.0.0/18,Asia,Saudi Arabia
+93.189.96.0/21,Asia,Saudi Arabia
+93.189.192.0/21,Asia,Saudi Arabia
+94.48.0.0/15,Asia,Saudi Arabia
+94.77.192.0/18,Asia,Saudi Arabia
+94.96.0.0/14,Asia,Saudi Arabia
+94.143.224.0/21,Asia,Saudi Arabia
+95.129.8.0/21,Asia,Saudi Arabia
+95.184.0.0/14,Asia,Saudi Arabia
+95.218.0.0/15,Asia,Saudi Arabia
+104.167.227.0/24,Asia,Saudi Arabia
+104.222.210.0/24,Asia,Saudi Arabia
+109.82.0.0/15,Asia,Saudi Arabia
+109.171.128.0/17,Asia,Saudi Arabia
+119.81.172.96/32,Asia,Saudi Arabia
+128.127.192.0/18,Asia,Saudi Arabia
+128.204.240.0/20,Asia,Saudi Arabia
+128.234.0.0/16,Asia,Saudi Arabia
+129.208.0.0/16,Asia,Saudi Arabia
+130.255.176.0/21,Asia,Saudi Arabia
+146.251.0.0/16,Asia,Saudi Arabia
+147.108.76.0/23,Asia,Saudi Arabia
+149.3.160.0/20,Asia,Saudi Arabia
+149.255.16.0/21,Asia,Saudi Arabia
+151.254.0.0/15,Asia,Saudi Arabia
+159.0.0.0/16,Asia,Saudi Arabia
+166.87.0.0/16,Asia,Saudi Arabia
+167.88.111.0/24,Asia,Saudi Arabia
+167.111.0.0/16,Asia,Saudi Arabia
+176.16.0.0/14,Asia,Saudi Arabia
+176.44.0.0/15,Asia,Saudi Arabia
+176.47.0.0/16,Asia,Saudi Arabia
+176.110.100.0/24,Asia,Saudi Arabia
+176.224.0.0/15,Asia,Saudi Arabia
+176.241.184.0/21,Asia,Saudi Arabia
+178.20.144.0/21,Asia,Saudi Arabia
+178.73.64.0/18,Asia,Saudi Arabia
+178.80.0.0/15,Asia,Saudi Arabia
+178.86.0.0/15,Asia,Saudi Arabia
+185.2.232.0/22,Asia,Saudi Arabia
+185.3.122.0/24,Asia,Saudi Arabia
+185.5.152.0/22,Asia,Saudi Arabia
+185.10.112.0/22,Asia,Saudi Arabia
+185.12.164.0/22,Asia,Saudi Arabia
+185.12.172.0/22,Asia,Saudi Arabia
+185.14.196.0/22,Asia,Saudi Arabia
+185.20.72.0/22,Asia,Saudi Arabia
+185.20.152.0/22,Asia,Saudi Arabia
+185.23.76.0/22,Asia,Saudi Arabia
+185.23.124.0/22,Asia,Saudi Arabia
+185.26.84.0/22,Asia,Saudi Arabia
+185.27.220.0/22,Asia,Saudi Arabia
+185.29.92.0/22,Asia,Saudi Arabia
+185.30.148.0/22,Asia,Saudi Arabia
+185.33.172.0/22,Asia,Saudi Arabia
+185.39.36.0/22,Asia,Saudi Arabia
+185.39.136.0/22,Asia,Saudi Arabia
+185.41.88.0/22,Asia,Saudi Arabia
+185.51.0.0/22,Asia,Saudi Arabia
+185.51.32.0/22,Asia,Saudi Arabia
+185.51.144.0/22,Asia,Saudi Arabia
+185.51.204.0/22,Asia,Saudi Arabia
+185.53.244.0/22,Asia,Saudi Arabia
+185.56.196.0/22,Asia,Saudi Arabia
+185.58.140.0/22,Asia,Saudi Arabia
+185.59.188.0/22,Asia,Saudi Arabia
+185.62.176.0/22,Asia,Saudi Arabia
+185.63.232.0/22,Asia,Saudi Arabia
+185.75.16.0/22,Asia,Saudi Arabia
+185.79.248.0/22,Asia,Saudi Arabia
+185.82.116.0/22,Asia,Saudi Arabia
+185.84.164.0/22,Asia,Saudi Arabia
+185.90.16.0/22,Asia,Saudi Arabia
+185.90.88.0/22,Asia,Saudi Arabia
+188.48.0.0/13,Asia,Saudi Arabia
+188.95.160.0/21,Asia,Saudi Arabia
+188.117.64.0/18,Asia,Saudi Arabia
+188.132.0.0/17,Asia,Saudi Arabia
+188.139.0.0/17,Asia,Saudi Arabia
+188.248.0.0/15,Asia,Saudi Arabia
+192.162.72.0/22,Asia,Saudi Arabia
+192.251.61.0/24,Asia,Saudi Arabia
+192.251.62.0/23,Asia,Saudi Arabia
+192.251.64.0/23,Asia,Saudi Arabia
+193.8.250.0/24,Asia,Saudi Arabia
+193.19.90.0/23,Asia,Saudi Arabia
+193.22.249.0/24,Asia,Saudi Arabia
+193.23.180.0/24,Asia,Saudi Arabia
+193.27.7.0/24,Asia,Saudi Arabia
+193.28.9.0/24,Asia,Saudi Arabia
+193.28.10.0/24,Asia,Saudi Arabia
+193.28.94.0/24,Asia,Saudi Arabia
+193.29.50.0/24,Asia,Saudi Arabia
+193.37.143.0/24,Asia,Saudi Arabia
+193.42.220.0/24,Asia,Saudi Arabia
+193.47.102.0/24,Asia,Saudi Arabia
+193.104.40.0/24,Asia,Saudi Arabia
+193.104.204.0/24,Asia,Saudi Arabia
+193.105.89.0/24,Asia,Saudi Arabia
+193.105.119.0/24,Asia,Saudi Arabia
+193.109.81.0/24,Asia,Saudi Arabia
+193.109.218.0/24,Asia,Saudi Arabia
+193.142.222.0/24,Asia,Saudi Arabia
+193.169.190.0/23,Asia,Saudi Arabia
+193.188.14.0/24,Asia,Saudi Arabia
+193.194.122.0/24,Asia,Saudi Arabia
+193.200.247.0/24,Asia,Saudi Arabia
+193.227.127.0/24,Asia,Saudi Arabia
+194.0.15.0/24,Asia,Saudi Arabia
+194.33.68.0/24,Asia,Saudi Arabia
+194.33.70.0/23,Asia,Saudi Arabia
+194.36.164.0/24,Asia,Saudi Arabia
+194.50.35.0/24,Asia,Saudi Arabia
+194.126.231.0/24,Asia,Saudi Arabia
+195.3.172.0/22,Asia,Saudi Arabia
+195.10.197.0/24,Asia,Saudi Arabia
+195.14.19.0/24,Asia,Saudi Arabia
+195.34.68.0/23,Asia,Saudi Arabia
+195.43.137.0/24,Asia,Saudi Arabia
+195.47.234.0/24,Asia,Saudi Arabia
+195.66.100.0/24,Asia,Saudi Arabia
+195.66.128.0/23,Asia,Saudi Arabia
+195.85.224.0/24,Asia,Saudi Arabia
+195.88.244.0/23,Asia,Saudi Arabia
+195.114.106.0/23,Asia,Saudi Arabia
+195.128.131.0/24,Asia,Saudi Arabia
+195.134.184.0/21,Asia,Saudi Arabia
+195.149.65.0/24,Asia,Saudi Arabia
+195.149.91.0/24,Asia,Saudi Arabia
+195.170.180.0/24,Asia,Saudi Arabia
+195.182.31.0/24,Asia,Saudi Arabia
+195.189.212.0/23,Asia,Saudi Arabia
+195.191.6.0/23,Asia,Saudi Arabia
+195.238.42.0/24,Asia,Saudi Arabia
+195.238.44.0/24,Asia,Saudi Arabia
+195.238.48.0/23,Asia,Saudi Arabia
+195.238.50.0/24,Asia,Saudi Arabia
+195.238.55.0/24,Asia,Saudi Arabia
+195.238.56.0/24,Asia,Saudi Arabia
+195.238.58.0/24,Asia,Saudi Arabia
+195.242.188.0/24,Asia,Saudi Arabia
+195.242.196.0/22,Asia,Saudi Arabia
+195.246.104.0/23,Asia,Saudi Arabia
+196.1.3.0/24,Asia,Saudi Arabia
+196.1.6.0/24,Asia,Saudi Arabia
+196.1.64.0/22,Asia,Saudi Arabia
+196.3.66.0/24,Asia,Saudi Arabia
+196.15.32.0/19,Asia,Saudi Arabia
+198.11.0.0/22,Asia,Saudi Arabia
+198.36.32.0/21,Asia,Saudi Arabia
+198.36.40.0/22,Asia,Saudi Arabia
+198.36.44.0/23,Asia,Saudi Arabia
+198.36.46.0/24,Asia,Saudi Arabia
+198.51.12.0/24,Asia,Saudi Arabia
+208.48.201.0/24,Asia,Saudi Arabia
+210.5.229.0/24,Asia,Saudi Arabia
+212.11.160.0/19,Asia,Saudi Arabia
+212.12.160.0/19,Asia,Saudi Arabia
+212.24.224.0/19,Asia,Saudi Arabia
+212.26.0.0/17,Asia,Saudi Arabia
+212.33.160.0/19,Asia,Saudi Arabia
+212.46.32.0/19,Asia,Saudi Arabia
+212.57.192.0/19,Asia,Saudi Arabia
+212.62.96.0/19,Asia,Saudi Arabia
+212.70.32.0/19,Asia,Saudi Arabia
+212.71.32.0/19,Asia,Saudi Arabia
+212.76.64.0/19,Asia,Saudi Arabia
+212.93.160.0/19,Asia,Saudi Arabia
+212.93.192.0/19,Asia,Saudi Arabia
+212.100.192.0/19,Asia,Saudi Arabia
+212.102.0.0/19,Asia,Saudi Arabia
+212.107.96.0/19,Asia,Saudi Arabia
+212.116.192.0/20,Asia,Saudi Arabia
+212.116.208.0/21,Asia,Saudi Arabia
+212.116.216.0/23,Asia,Saudi Arabia
+212.116.218.0/24,Asia,Saudi Arabia
+212.116.219.0/25,Asia,Saudi Arabia
+212.116.219.128/28,Asia,Saudi Arabia
+212.116.219.144/29,Asia,Saudi Arabia
+212.116.219.152/31,Asia,Saudi Arabia
+212.116.219.155/32,Asia,Saudi Arabia
+212.116.219.156/30,Asia,Saudi Arabia
+212.116.219.160/27,Asia,Saudi Arabia
+212.116.219.192/26,Asia,Saudi Arabia
+212.116.220.0/22,Asia,Saudi Arabia
+212.118.96.0/19,Asia,Saudi Arabia
+212.118.128.0/19,Asia,Saudi Arabia
+212.119.64.0/19,Asia,Saudi Arabia
+212.138.0.0/16,Asia,Saudi Arabia
+212.162.128.0/19,Asia,Saudi Arabia
+212.215.128.0/17,Asia,Saudi Arabia
+213.5.168.0/21,Asia,Saudi Arabia
+213.136.192.0/19,Asia,Saudi Arabia
+213.165.32.0/19,Asia,Saudi Arabia
+213.166.128.0/19,Asia,Saudi Arabia
+213.181.160.0/19,Asia,Saudi Arabia
+213.184.160.0/19,Asia,Saudi Arabia
+213.210.192.0/18,Asia,Saudi Arabia
+213.230.0.0/19,Asia,Saudi Arabia
+213.236.32.0/19,Asia,Saudi Arabia
+216.128.46.0/24,Asia,Saudi Arabia
+216.241.47.192/29,Asia,Saudi Arabia
+217.8.64.0/20,Asia,Saudi Arabia
+217.12.224.0/20,Asia,Saudi Arabia
+217.145.240.0/20,Asia,Saudi Arabia
+217.173.80.0/20,Asia,Saudi Arabia
+2.144.0.0/14,Asia,Iran
+2.176.0.0/12,Asia,Iran
+5.22.0.0/17,Asia,Iran
+5.22.192.0/19,Asia,Iran
+5.23.112.0/21,Asia,Iran
+5.28.32.0/21,Asia,Iran
+5.34.192.0/19,Asia,Iran
+5.52.0.0/16,Asia,Iran
+5.53.32.0/19,Asia,Iran
+5.56.128.0/22,Asia,Iran
+5.57.32.0/21,Asia,Iran
+5.61.24.0/23,Asia,Iran
+5.61.72.0/21,Asia,Iran
+5.63.8.0/21,Asia,Iran
+5.78.0.0/16,Asia,Iran
+5.102.32.0/20,Asia,Iran
+5.106.0.0/16,Asia,Iran
+5.112.0.0/12,Asia,Iran
+5.134.128.0/18,Asia,Iran
+5.144.128.0/21,Asia,Iran
+5.145.112.0/21,Asia,Iran
+5.159.48.0/21,Asia,Iran
+5.160.0.0/15,Asia,Iran
+5.189.204.0/25,Asia,Iran
+5.190.0.0/16,Asia,Iran
+5.198.160.0/19,Asia,Iran
+5.200.64.0/18,Asia,Iran
+5.200.128.0/17,Asia,Iran
+5.201.128.0/17,Asia,Iran
+5.202.0.0/16,Asia,Iran
+5.208.0.0/12,Asia,Iran
+5.226.48.0/21,Asia,Iran
+5.232.0.0/13,Asia,Iran
+5.250.0.0/17,Asia,Iran
+31.2.128.0/17,Asia,Iran
+31.7.64.0/18,Asia,Iran
+31.7.128.0/20,Asia,Iran
+31.14.80.0/20,Asia,Iran
+31.14.112.0/20,Asia,Iran
+31.14.144.0/20,Asia,Iran
+31.24.204.0/22,Asia,Iran
+31.24.232.0/21,Asia,Iran
+31.25.88.0/21,Asia,Iran
+31.25.104.0/21,Asia,Iran
+31.25.128.0/21,Asia,Iran
+31.25.232.0/21,Asia,Iran
+31.29.32.0/19,Asia,Iran
+31.40.0.0/21,Asia,Iran
+31.47.32.0/19,Asia,Iran
+31.56.0.0/14,Asia,Iran
+31.130.176.0/20,Asia,Iran
+31.170.48.0/20,Asia,Iran
+31.171.216.0/21,Asia,Iran
+31.184.128.0/18,Asia,Iran
+31.193.112.0/21,Asia,Iran
+31.193.144.0/20,Asia,Iran
+31.217.208.0/21,Asia,Iran
+37.9.248.0/21,Asia,Iran
+37.19.80.0/20,Asia,Iran
+37.27.0.0/16,Asia,Iran
+37.32.0.0/19,Asia,Iran
+37.32.32.0/20,Asia,Iran
+37.32.112.0/20,Asia,Iran
+37.44.56.0/21,Asia,Iran
+37.49.144.0/21,Asia,Iran
+37.63.128.0/17,Asia,Iran
+37.75.240.0/21,Asia,Iran
+37.98.0.0/17,Asia,Iran
+37.98.200.0/21,Asia,Iran
+37.114.192.0/18,Asia,Iran
+37.123.192.0/21,Asia,Iran
+37.128.240.0/20,Asia,Iran
+37.129.0.0/16,Asia,Iran
+37.130.200.0/21,Asia,Iran
+37.137.0.0/16,Asia,Iran
+37.143.144.0/21,Asia,Iran
+37.152.160.0/19,Asia,Iran
+37.153.176.0/20,Asia,Iran
+37.156.16.0/20,Asia,Iran
+37.156.48.0/20,Asia,Iran
+37.156.112.0/20,Asia,Iran
+37.156.128.0/20,Asia,Iran
+37.156.152.0/21,Asia,Iran
+37.156.160.0/21,Asia,Iran
+37.191.64.0/19,Asia,Iran
+37.221.0.0/18,Asia,Iran
+37.235.16.0/20,Asia,Iran
+37.254.0.0/15,Asia,Iran
+46.18.248.0/21,Asia,Iran
+46.21.80.0/20,Asia,Iran
+46.28.72.0/21,Asia,Iran
+46.32.0.0/19,Asia,Iran
+46.34.96.0/19,Asia,Iran
+46.34.160.0/19,Asia,Iran
+46.36.96.0/19,Asia,Iran
+46.38.128.0/19,Asia,Iran
+46.41.192.0/18,Asia,Iran
+46.62.128.0/17,Asia,Iran
+46.100.0.0/16,Asia,Iran
+46.102.120.0/21,Asia,Iran
+46.102.128.0/20,Asia,Iran
+46.143.0.0/16,Asia,Iran
+46.148.32.0/20,Asia,Iran
+46.164.64.0/18,Asia,Iran
+46.209.0.0/16,Asia,Iran
+46.224.0.0/15,Asia,Iran
+46.245.0.0/17,Asia,Iran
+46.248.32.0/19,Asia,Iran
+46.249.96.0/24,Asia,Iran
+46.249.98.0/23,Asia,Iran
+46.249.100.0/22,Asia,Iran
+46.249.104.0/21,Asia,Iran
+46.249.112.0/20,Asia,Iran
+46.251.160.0/19,Asia,Iran
+46.255.216.0/21,Asia,Iran
+62.60.128.0/17,Asia,Iran
+62.102.128.0/20,Asia,Iran
+62.193.0.0/19,Asia,Iran
+62.220.96.0/19,Asia,Iran
+63.243.185.0/24,Asia,Iran
+68.169.76.32/27,Asia,Iran
+77.36.128.0/17,Asia,Iran
+77.77.64.0/18,Asia,Iran
+77.81.76.0/24,Asia,Iran
+77.81.77.16/28,Asia,Iran
+77.81.77.32/27,Asia,Iran
+77.81.77.64/26,Asia,Iran
+77.81.77.128/25,Asia,Iran
+77.81.78.0/23,Asia,Iran
+77.81.80.0/22,Asia,Iran
+77.81.192.0/19,Asia,Iran
+77.104.64.0/18,Asia,Iran
+77.237.64.0/19,Asia,Iran
+77.237.160.0/19,Asia,Iran
+77.245.224.0/20,Asia,Iran
+78.38.0.0/15,Asia,Iran
+78.109.192.0/20,Asia,Iran
+78.110.112.0/20,Asia,Iran
+78.111.0.0/20,Asia,Iran
+78.154.32.0/19,Asia,Iran
+78.157.32.0/19,Asia,Iran
+78.158.160.0/19,Asia,Iran
+79.127.0.0/17,Asia,Iran
+79.132.192.0/19,Asia,Iran
+79.174.160.0/21,Asia,Iran
+79.175.128.0/18,Asia,Iran
+80.66.176.0/20,Asia,Iran
+80.69.240.0/20,Asia,Iran
+80.71.112.0/20,Asia,Iran
+80.75.0.0/20,Asia,Iran
+80.191.0.0/16,Asia,Iran
+80.242.0.0/20,Asia,Iran
+80.250.192.0/20,Asia,Iran
+80.253.128.0/19,Asia,Iran
+81.12.0.0/17,Asia,Iran
+81.28.32.0/19,Asia,Iran
+81.29.240.0/20,Asia,Iran
+81.31.160.0/19,Asia,Iran
+81.31.224.0/19,Asia,Iran
+81.90.144.0/20,Asia,Iran
+81.91.128.0/19,Asia,Iran
+81.163.0.0/21,Asia,Iran
+82.99.192.0/18,Asia,Iran
+82.115.0.0/21,Asia,Iran
+82.115.8.0/22,Asia,Iran
+82.115.12.0/23,Asia,Iran
+82.115.14.0/24,Asia,Iran
+82.115.16.0/22,Asia,Iran
+82.115.20.0/23,Asia,Iran
+82.115.23.9/32,Asia,Iran
+82.115.29.0/24,Asia,Iran
+82.115.30.0/23,Asia,Iran
+83.147.192.0/21,Asia,Iran
+83.147.200.0/22,Asia,Iran
+83.147.208.0/20,Asia,Iran
+83.147.224.0/19,Asia,Iran
+84.39.176.0/21,Asia,Iran
+84.47.208.0/20,Asia,Iran
+84.47.224.0/20,Asia,Iran
+84.47.248.0/21,Asia,Iran
+84.241.0.0/18,Asia,Iran
+85.9.64.0/18,Asia,Iran
+85.15.0.0/18,Asia,Iran
+85.133.128.0/17,Asia,Iran
+85.185.0.0/16,Asia,Iran
+85.198.0.0/18,Asia,Iran
+85.204.30.0/23,Asia,Iran
+85.204.76.0/23,Asia,Iran
+85.204.80.0/20,Asia,Iran
+85.204.104.0/23,Asia,Iran
+85.204.208.0/20,Asia,Iran
+85.239.192.0/19,Asia,Iran
+86.55.0.0/16,Asia,Iran
+86.57.0.0/17,Asia,Iran
+86.104.32.0/20,Asia,Iran
+86.104.80.0/20,Asia,Iran
+86.104.96.0/20,Asia,Iran
+86.104.232.0/21,Asia,Iran
+86.104.240.0/21,Asia,Iran
+86.105.128.0/20,Asia,Iran
+86.107.0.0/20,Asia,Iran
+86.107.80.0/20,Asia,Iran
+86.107.144.0/20,Asia,Iran
+86.107.208.0/20,Asia,Iran
+86.109.32.0/20,Asia,Iran
+86.109.48.0/21,Asia,Iran
+86.109.56.0/22,Asia,Iran
+86.109.60.0/23,Asia,Iran
+86.109.62.0/24,Asia,Iran
+87.107.0.0/16,Asia,Iran
+87.247.160.0/19,Asia,Iran
+87.248.128.0/19,Asia,Iran
+88.135.32.0/20,Asia,Iran
+89.32.0.0/19,Asia,Iran
+89.32.96.0/20,Asia,Iran
+89.32.196.0/23,Asia,Iran
+89.33.18.0/23,Asia,Iran
+89.33.128.0/23,Asia,Iran
+89.33.204.0/23,Asia,Iran
+89.33.234.0/23,Asia,Iran
+89.33.240.0/23,Asia,Iran
+89.34.20.0/23,Asia,Iran
+89.34.32.0/19,Asia,Iran
+89.34.88.0/23,Asia,Iran
+89.34.94.0/23,Asia,Iran
+89.34.128.0/19,Asia,Iran
+89.34.168.0/23,Asia,Iran
+89.34.176.0/23,Asia,Iran
+89.34.200.0/23,Asia,Iran
+89.35.58.0/23,Asia,Iran
+89.35.132.0/23,Asia,Iran
+89.35.156.0/23,Asia,Iran
+89.35.176.0/23,Asia,Iran
+89.35.194.0/23,Asia,Iran
+89.36.16.0/23,Asia,Iran
+89.36.48.0/20,Asia,Iran
+89.36.96.0/20,Asia,Iran
+89.36.176.0/20,Asia,Iran
+89.36.194.0/23,Asia,Iran
+89.36.226.0/23,Asia,Iran
+89.36.252.0/23,Asia,Iran
+89.37.0.0/20,Asia,Iran
+89.37.30.0/23,Asia,Iran
+89.37.42.0/23,Asia,Iran
+89.37.102.0/23,Asia,Iran
+89.37.198.0/23,Asia,Iran
+89.37.218.0/23,Asia,Iran
+89.37.240.0/20,Asia,Iran
+89.38.24.0/23,Asia,Iran
+89.38.80.0/20,Asia,Iran
+89.38.102.0/23,Asia,Iran
+89.38.242.0/23,Asia,Iran
+89.39.186.0/23,Asia,Iran
+89.40.38.0/23,Asia,Iran
+89.40.78.0/23,Asia,Iran
+89.40.90.0/23,Asia,Iran
+89.40.106.0/23,Asia,Iran
+89.40.110.0/23,Asia,Iran
+89.40.128.0/23,Asia,Iran
+89.40.240.0/20,Asia,Iran
+89.41.8.0/21,Asia,Iran
+89.41.16.0/21,Asia,Iran
+89.41.32.0/23,Asia,Iran
+89.41.58.0/23,Asia,Iran
+89.41.192.0/19,Asia,Iran
+89.41.224.0/20,Asia,Iran
+89.41.240.0/21,Asia,Iran
+89.42.32.0/23,Asia,Iran
+89.42.56.0/23,Asia,Iran
+89.42.68.0/23,Asia,Iran
+89.42.150.0/23,Asia,Iran
+89.42.228.0/23,Asia,Iran
+89.43.0.0/20,Asia,Iran
+89.43.36.0/23,Asia,Iran
+89.43.70.0/23,Asia,Iran
+89.43.88.0/21,Asia,Iran
+89.43.96.0/21,Asia,Iran
+89.43.182.0/23,Asia,Iran
+89.43.188.0/23,Asia,Iran
+89.43.204.0/23,Asia,Iran
+89.43.216.0/21,Asia,Iran
+89.43.224.0/21,Asia,Iran
+89.44.112.0/23,Asia,Iran
+89.44.118.0/23,Asia,Iran
+89.44.146.0/23,Asia,Iran
+89.44.190.0/23,Asia,Iran
+89.44.202.0/23,Asia,Iran
+89.45.48.0/20,Asia,Iran
+89.45.68.0/23,Asia,Iran
+89.45.80.0/23,Asia,Iran
+89.45.112.0/21,Asia,Iran
+89.45.126.0/23,Asia,Iran
+89.45.230.0/23,Asia,Iran
+89.46.44.0/23,Asia,Iran
+89.46.60.0/23,Asia,Iran
+89.46.94.0/23,Asia,Iran
+89.47.64.0/20,Asia,Iran
+89.47.128.0/19,Asia,Iran
+89.104.80.0/20,Asia,Iran
+89.144.128.0/18,Asia,Iran
+89.165.0.0/17,Asia,Iran
+89.184.192.0/19,Asia,Iran
+89.196.0.0/16,Asia,Iran
+89.198.0.0/15,Asia,Iran
+89.219.64.0/18,Asia,Iran
+89.219.192.0/18,Asia,Iran
+89.221.80.0/20,Asia,Iran
+89.235.64.0/18,Asia,Iran
+91.98.0.0/15,Asia,Iran
+91.106.64.0/19,Asia,Iran
+91.108.128.0/19,Asia,Iran
+91.133.128.0/17,Asia,Iran
+91.184.64.0/19,Asia,Iran
+91.186.192.0/19,Asia,Iran
+91.206.122.0/23,Asia,Iran
+91.207.138.0/23,Asia,Iran
+91.208.165.0/24,Asia,Iran
+91.209.242.0/24,Asia,Iran
+91.212.16.0/24,Asia,Iran
+91.212.252.0/24,Asia,Iran
+91.216.4.0/24,Asia,Iran
+91.217.64.0/23,Asia,Iran
+91.220.79.0/24,Asia,Iran
+91.222.196.0/22,Asia,Iran
+91.224.110.0/23,Asia,Iran
+91.224.176.0/23,Asia,Iran
+91.225.52.0/22,Asia,Iran
+91.226.224.0/23,Asia,Iran
+91.228.189.0/24,Asia,Iran
+91.229.214.0/23,Asia,Iran
+91.230.32.0/24,Asia,Iran
+91.232.64.0/22,Asia,Iran
+91.232.68.0/23,Asia,Iran
+91.232.72.0/22,Asia,Iran
+91.233.56.0/22,Asia,Iran
+91.236.168.0/23,Asia,Iran
+91.237.254.0/23,Asia,Iran
+91.238.0.0/24,Asia,Iran
+91.239.14.0/24,Asia,Iran
+91.239.54.0/23,Asia,Iran
+91.239.108.0/22,Asia,Iran
+91.239.214.0/24,Asia,Iran
+91.240.60.0/22,Asia,Iran
+91.240.180.0/22,Asia,Iran
+91.241.20.0/23,Asia,Iran
+91.241.92.0/24,Asia,Iran
+91.242.44.0/23,Asia,Iran
+91.243.126.0/23,Asia,Iran
+91.243.160.0/20,Asia,Iran
+91.247.66.0/23,Asia,Iran
+91.251.0.0/16,Asia,Iran
+92.42.48.0/21,Asia,Iran
+92.50.0.0/18,Asia,Iran
+92.61.176.0/20,Asia,Iran
+92.62.176.0/20,Asia,Iran
+92.114.16.0/20,Asia,Iran
+92.242.192.0/19,Asia,Iran
+93.110.0.0/16,Asia,Iran
+93.113.224.0/20,Asia,Iran
+93.114.16.0/20,Asia,Iran
+93.117.0.0/19,Asia,Iran
+93.117.32.0/20,Asia,Iran
+93.117.96.0/19,Asia,Iran
+93.117.176.0/20,Asia,Iran
+93.118.96.0/19,Asia,Iran
+93.118.128.0/19,Asia,Iran
+93.118.160.0/20,Asia,Iran
+93.119.32.0/19,Asia,Iran
